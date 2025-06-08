@@ -1,0 +1,53 @@
+#main{
+    text-align: center;
+}
+.box{
+    height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+    margin: 8px;
+    border-radius: 5px;
+}
+#boxes{
+    display: flex;
+    position: absolute;
+    left: 43%;
+}
+.yellow{
+    background-color: #f99b45;
+    height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+    margin: 8px;
+    border-radius: 5px;
+}
+.red{
+    background-color: #d95980;
+    height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+    margin: 8px;
+    border-radius: 5px;
+}
+.purple{
+    background-color: #849ff9;
+    height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+    margin: 8px;
+    border-radius: 5px;
+}
+.green{
+ background-color: rgb(61, 166, 61);
+ height: 80px;
+    width: 80px;
+    border: 1.5px solid black;
+    margin: 8px;
+    border-radius: 5px;
+}
+.gamechamak{
+    background-color:white ;
+}
+.userchamak{
+    background-color:green;
+}
